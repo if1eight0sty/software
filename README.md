@@ -1,6 +1,6 @@
 # STS-Software(Restaurant Management Desktop App)
 
-![App Screenshot](./public/app-screenshot.png)
+![App Screenshot](./app-screenshot.png)
 
 Welcome to the Restaurant Management Desktop App! This Electron.js application is designed to help restaurant owners and managers efficiently manage orders, payments, stock (foods and drinks), menus, and staff.
 
